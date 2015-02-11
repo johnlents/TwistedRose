@@ -3,11 +3,11 @@
 	font-family: 'Poiret One', cursive;
 }
  body {
- 	background-color: #FAEBD7
+ 	background-color: #FAEBD7;
  }
 .navbar {
-	background-color: #FAEBD7;
-	margin: 0 0 15px 0;
+	background-color: #cfb89b;
+	margin: 0 0 25px 0;
 }
 
 .navbar-brand {
@@ -16,7 +16,8 @@
 }
 
 .logo {
-	margin-top: -25px;
+	margin-top: -50px;
+	opacity: .9;
 }
 
 .jumbotron {
