@@ -29,3 +29,13 @@
 .container {
 	width: 85%;
 }
+.carousel-control.left, .carousel-control.right {
+    opacity: .3;
+}
+
+/*
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+} --> 
+THIS REMOVES THE GRAY TO BLACK BACKGROUND COLORS.  LOOKS DUMB WITHOUT ANY COLOR.  CHANGING OPACITY WORKS WELL.
+*/
