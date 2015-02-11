@@ -2,10 +2,12 @@
 	
 	font-family: 'Poiret One', cursive;
 }
-
+ body {
+ 	background-color: #FAEBD7
+ }
 .navbar {
 	background-color: #FAEBD7;
-	margin: 0 0;
+	margin: 0 0 15px 0;
 }
 
 .navbar-brand {
@@ -21,4 +23,8 @@
 	font-size: 3em;
 	margin: 0;
 	background-color: #FAEBD7;
+}
+
+.container {
+	width: 85%;
 }
